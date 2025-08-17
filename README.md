@@ -175,7 +175,7 @@ If you want, you can create a decision tree to better understand how the agent i
 
 ## Designing Maps
 
-You can design your own circuits using any drawing program (e.g., GIMP, Photoshop, Krita).
+You can design your own circuits using any drawing program (example: GIMP, Photoshop, Krita).
 
 - The map image must have a resolution of 1920x1080.
 - The track should be black.
