@@ -1,4 +1,4 @@
-ontent = """# Car with Machine Learning – Intelligent Driving Agent
+content = """# Car with Machine Learning – Intelligent Driving Agent
 
 This project implements **intelligent driving agents for a car in circuits**, combining **manual control with lane-centering assist**, **automatic PID control**, and **supervised machine learning models** (classification and regression).
 
@@ -21,12 +21,6 @@ This project implements **intelligent driving agents for a car in circuits**, co
   Evaluates regression algorithms on the driving dataset.  
   - Models: Linear Regression, Decision Tree, Random Forest, KNN (k=3, 5), Gradient Boosting, ZeroR.  
   - Metric: **RMSE** (Root Mean Squared Error).
-
-- **`c_ordinal_randomforest_label.py`** *(if included in your workflow)*  
-  Trains the **final classification model** used by `SmartCar`.  
-  - Uses **OrdinalEncoder + Random Forest**.  
-  - Exports the trained model as `modelo_clasificador.joblib`.  
-  - Generates feature importance plots.
 
 - **`clasificador_doble.py`**  
   Extended classifier that can combine or compare multiple classification strategies.
