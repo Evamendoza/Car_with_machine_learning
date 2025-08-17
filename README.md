@@ -1,4 +1,4 @@
-"""# Car with Machine Learning – Intelligent Driving Agent
+## Car with Machine Learning – Intelligent Driving Agent
 
 This project implements **intelligent driving agents for a car in circuits**, combining **manual control with lane-centering assist**, **automatic PID control**, and **supervised machine learning models** (classification and regression).
 
@@ -101,7 +101,7 @@ python coche_inteligente.py   # with IA_MODE=True
 
 ---
 
-## 📊 Workflow
+##  Workflow
 
 ### 1) Data Collection
 
@@ -184,7 +184,7 @@ You can design your own circuits using any drawing program (e.g., GIMP, Photosho
 
 ---
 
-## 📌 Requirements
+##  Requirements
 
 - Python 3.8+
 - Install dependencies:
